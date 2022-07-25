@@ -1,4 +1,4 @@
-# This is Game-guess
+# This is Game-guess 🎮
 This is a game for guess my name
 
 # Description
@@ -10,4 +10,5 @@ This project is made with Python and is a game for fun
 
 2- Run this source code, depending on the language of the source code.
 
-Enjoy!
+Enjoy! 
+
