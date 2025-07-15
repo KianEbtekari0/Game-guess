@@ -34,7 +34,7 @@ else:
     print('sorry, you faild')
 
 if count == 1:
-    print('you very good')
+    print('you are very good')
 
 if count == 2:
     print('it was not bad. but you won')
